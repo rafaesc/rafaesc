@@ -8,8 +8,16 @@ Currently, I’m building and optimizing backend services for high-impact produc
 ---
 
 ## 🎥 My latest videos on <a href="https://www.youtube.com/channel/UCa2FQbP6cJghAJjnOD4gljg">YouTube</a>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Designing Data-Intensive Applications 2026 (Early Access) – Part 9 | SQL vs NoSQL & Data Model](https://www.youtube.com/watch?v=sg8AG6KgZ_U)
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sg8AG6KgZ_U"><img width="140px" src="https://i.ytimg.com/vi/sg8AG6KgZ_U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sg8AG6KgZ_U">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 9 | SQL vs NoSQL &amp; Data Model</a><br/>Mar 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C7NBNVnT4qk"><img width="140px" src="https://i.ytimg.com/vi/C7NBNVnT4qk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C7NBNVnT4qk">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 8 | Scalability</a><br/>Feb 24, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pvxXuRMcipY"><img width="140px" src="https://i.ytimg.com/vi/pvxXuRMcipY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pvxXuRMcipY">How Many Kafka Partitions Do You REALLY Need?</a><br/>Feb 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oYZ0pvgq_bI"><img width="140px" src="https://i.ytimg.com/vi/oYZ0pvgq_bI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oYZ0pvgq_bI">Kafka Capacity Planning Explained | Partitions, Brokers &amp; Traffic Spikes</a><br/>Feb 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r1vNPwk1-iA"><img width="140px" src="https://i.ytimg.com/vi/r1vNPwk1-iA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r1vNPwk1-iA">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 7 | Response Time, Throughput</a><br/>Feb 20, 2026</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ---
