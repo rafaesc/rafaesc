@@ -5,6 +5,14 @@ I’m a high-performance Full Stack Developer with 10 years of experience, passi
 
 Currently, I’m building and optimizing backend services for high-impact products at Metadata.io
 
+---
+
+## 🎥 My latest videos on <a href="https://www.youtube.com/channel/UCa2FQbP6cJghAJjnOD4gljg">YouTube</a>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Designing Data-Intensive Applications 2026 (Early Access) – Part 9 | SQL vs NoSQL & Data Model](https://www.youtube.com/watch?v=sg8AG6KgZ_U)
+<!-- YOUTUBE-VIDEOS-LIST:END --> 
+
+---
 
 ## 📚 Open Source
 
