@@ -8,7 +8,9 @@ Currently, I’m building and optimizing backend services for high-impact produc
 ---
 
 ## 🎥 My latest videos on <a href="https://www.youtube.com/channel/UCa2FQbP6cJghAJjnOD4gljg">YouTube</a>
-<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vqigvq6HoXw"><img width="140px" src="https://i.ytimg.com/vi/vqigvq6HoXw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o_Ez0VEKxDM"><img width="140px" src="https://i.ytimg.com/vi/o_Ez0VEKxDM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o_Ez0VEKxDM">Designing Data-Intensive Applications 2026 – Part 11 | Event Sourcing &amp; CQRS Architecture</a><br/>Apr 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vqigvq6HoXw"><img width="140px" src="https://i.ytimg.com/vi/vqigvq6HoXw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vqigvq6HoXw">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 10 | Graph Data Models</a><br/>Mar 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AXs3MKmVHnA"><img width="140px" src="https://i.ytimg.com/vi/AXs3MKmVHnA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AXs3MKmVHnA">10 Years as a Senior Dev and I was a Cloud Hostage: My Honest KubeCraft Review &lpar;2026&rpar;</a><br/>Mar 16, 2026</td></tr></table>
@@ -16,8 +18,6 @@ Currently, I’m building and optimizing backend services for high-impact produc
 <td><a href="https://www.youtube.com/watch?v=sg8AG6KgZ_U">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 9 | SQL vs NoSQL &amp; Data Model</a><br/>Mar 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=C7NBNVnT4qk"><img width="140px" src="https://i.ytimg.com/vi/C7NBNVnT4qk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C7NBNVnT4qk">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 8 | Scalability</a><br/>Feb 24, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/pvxXuRMcipY"><img width="140px" src="https://i.ytimg.com/vi/pvxXuRMcipY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/pvxXuRMcipY">How Many Kafka Partitions Do You REALLY Need?</a><br/>Feb 21, 2026</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ---
