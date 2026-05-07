@@ -8,7 +8,9 @@ Currently, I’m building and optimizing backend services for high-impact produc
 ---
 
 ## 🎥 My latest videos on <a href="https://www.youtube.com/channel/UCa2FQbP6cJghAJjnOD4gljg">YouTube</a>
-<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yGJXSSx_hvM"><img width="140px" src="https://i.ytimg.com/vi/yGJXSSx_hvM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Gay2fveSc-E"><img width="140px" src="https://i.ytimg.com/vi/Gay2fveSc-E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Gay2fveSc-E">Designing Data-Intensive Applications 2026 – Part 14 | Modern Data Warehouses</a><br/>May 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yGJXSSx_hvM"><img width="140px" src="https://i.ytimg.com/vi/yGJXSSx_hvM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yGJXSSx_hvM">Designing Data-Intensive Applications 2026 – Part 13 | B-Trees vs LSM-Trees &amp; Storage Trade-offs</a><br/>May 5, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b1wRYGcmjSI"><img width="140px" src="https://i.ytimg.com/vi/b1wRYGcmjSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b1wRYGcmjSI">Designing Data-Intensive Applications 2026 – Part 12 | Storage Engines, Indexes &amp; LSM Trees</a><br/>Apr 14, 2026</td></tr></table>
@@ -16,8 +18,6 @@ Currently, I’m building and optimizing backend services for high-impact produc
 <td><a href="https://www.youtube.com/watch?v=o_Ez0VEKxDM">Designing Data-Intensive Applications 2026 – Part 11 | Event Sourcing &amp; CQRS Architecture</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vqigvq6HoXw"><img width="140px" src="https://i.ytimg.com/vi/vqigvq6HoXw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vqigvq6HoXw">Designing Data-Intensive Applications 2026 &lpar;Early Access&rpar; – Part 10 | Graph Data Models</a><br/>Mar 23, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AXs3MKmVHnA"><img width="140px" src="https://i.ytimg.com/vi/AXs3MKmVHnA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AXs3MKmVHnA">10 Years as a Senior Dev and I was a Cloud Hostage: My Honest KubeCraft Review &lpar;2026&rpar;</a><br/>Mar 16, 2026</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
 
 ---
